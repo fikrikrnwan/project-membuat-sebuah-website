@@ -1,0 +1,67 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #080808;
+    color: #f8f6f6;
+    padding: 20px 0;
+}
+
+header h1 {
+    margin: 0;
+    padding: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fcf8f8;
+    text-decoration: none;
+}
+
+section {
+    padding: 40px 0;
+}
+
+#intro {
+    background-color: #f2f2f2;
+}
+
+#about {
+    background-color: #e6e6e6;
+}
+
+body {
+    background-image: url('picture/background.jpg'); /* Ganti 'background.jpg' dengan path gambar Anda */
+    background-size: cover; /* Menyesuaikan ukuran gambar agar selalu mencakup seluruh halaman */
+    background-position: center; /* Posisi gambar di tengah halaman */
+    background-repeat: no-repeat; /* Menghindari pengulangan gambar */
+    font-family: Arial, sans-serif; /* Memilih font untuk teks */
+    color: #2c2626; /* Warna teks */
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
